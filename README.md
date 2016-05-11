@@ -6,7 +6,7 @@ Meteor smart package for https://github.com/t3chnoboy/amazon-product-api
 
 Adds `AmazonProductApi` object to the global scope. Also adds synchronous functions, suffixed with `sync`.
 
-    var client = AmazonProductAPi.createClient({
+    var client = AmazonProductApi.createClient({
       awsId: "",
       awsSecret: "",
       awsTag: ""

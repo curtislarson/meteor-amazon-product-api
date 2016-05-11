@@ -11,7 +11,7 @@ Package.describe({
 });
 
 Npm.depends({
-  "amazon-product-api": "0.3.5"
+  "amazon-product-api": "0.3.7"
 });
 
 Package.onUse(function(api) {
